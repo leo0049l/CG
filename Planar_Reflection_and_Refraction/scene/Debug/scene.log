@@ -1,0 +1,15 @@
+﻿已經開始建置於 2016/12/7 上午 01:03:28。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V3\scene\scene.vcxproj"。
+     1>ClCompile:
+         D:\Visual C 2013\VC\bin\CL.exe /c /I"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V3\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\禕\documents\visual studio 2013\projects\0316211v3\include\freeimage.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+       Link:
+         D:\Visual C 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V3\Debug\scene.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V3\lib" FreeImage.lib glew32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V3\Debug\scene.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V3\Debug\scene.lib" /MACHINE:X86 Debug\main.obj
+         Debug\mesh.obj
+         scene.vcxproj -> C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V3\Debug\scene.exe
+     1>專案 "C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V3\scene\scene.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.27
