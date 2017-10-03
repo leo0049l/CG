@@ -1,0 +1,16 @@
+﻿已經開始建置於 2017/1/3 下午 09:30:16。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V4\scene\scene.vcxproj"。
+     1>ClCompile:
+         D:\Visual C 2013\VC\bin\CL.exe /c /I"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V4\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\禕\documents\visual studio 2013\projects\0316211v4\scene\main.cpp(640): warning C4101: 'i' : 未參考的區域變數
+       Link:
+         D:\Visual C 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V4\Debug\scene.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V4\lib" FreeImage.lib glew32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V4\Debug\scene.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V4\Debug\scene.lib" /MACHINE:X86 Debug\main.obj
+         Debug\mesh.obj
+         Debug\ShaderLoader.obj
+         scene.vcxproj -> C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V4\Debug\scene.exe
+     1>專案 "C:\Users\禕\Documents\Visual Studio 2013\Projects\0316211V4\scene\scene.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.08
